@@ -10,8 +10,6 @@
  
 The project is for the tutorial purpose regarding **How to create google chrome extension**
 
-### Read the article
-Blog : [Create a Chrome Extension with HTML, CSS, and JavaScript](https://daily.dev/blog/create-chrome-extension-with-html-css-and-javascript)
 
 # ScreenShot
 
